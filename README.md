@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @homerun-beauty
 - 👀 I’m interested in travelling.
-- 🌱 I’m currently learning deep learning for computer vision and natural language processing.
+- 🌱 I’m currently learning Computer Vision (CV) and Natural Language Processing (NLP).
 - 📫 ethentsao1998@gmail.com
 
 <!---
